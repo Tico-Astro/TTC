@@ -2,17 +2,9 @@
 # -*- coding: utf-8 -*-
 """
 Created on Fri May  9 22:39:57 2025
-
-@author: astronomy_zrf
 """
 
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Thu May  8 20:42:50 2025
 
-@author: astronomy_zrf
-"""
 
 import numpy as np
 from scipy.optimize import curve_fit
@@ -26,11 +18,9 @@ warnings.simplefilter("error", OptimizeWarning)
 warnings.filterwarnings("ignore")
 
 
-#定义星等流量转换
+
 def trans_fe2m2(flux,e_flux):
-    #AB星等系统，所有的波段都是3631Jy作为零点
-    #这个函数用来计算星等误差
-    #考虑到读出的流量单位mJy
+    
     if flux>0 and flux - e_flux>0:
         err = -2.5*np.log10((flux-e_flux)/3631000) + 2.5*np.log10((flux+e_flux)/3631000)
     else:
@@ -47,7 +37,7 @@ def trans_f2m(flux):
 
 
 
-# 定义高斯函数
+
 def gaussian(x, mu, sigma,amp):
     return amp * np.exp(-(x - mu)**2 / (2 * sigma**2))
 
@@ -55,14 +45,14 @@ def gaussian(x, mu, sigma,amp):
 def gaussian_with_C(x, mu, sigma,amp,C):
     return amp * np.exp(-(x - mu)**2 / (2 * sigma**2))+C
 
-#定义指数拟合
+
 def exp(x,tau,t0,amp):
     return amp * np.exp((x - t0)/tau)
 
 def exp_with_C(x,tau,t0,amp,C):
     return amp * np.exp((x - t0)/tau)+C
 
-#定义SoftPlus函数
+
 def softplus(x, amp,b,t0):
     return amp*(x-t0 + np.sqrt((x-t0)**2 + b))
 
@@ -87,10 +77,8 @@ def gauss_and_powerlaw(x,t0,tp,sigma,alpha,amp,C):
 
 
 def gauss_and_powerlaw_fitting(time,flux):
-    #根据一片新的文章，这个工作准备对拟合函数进行大调整
-    #x,t0,sigma,alpha,amp
     
-    alpha = -5/3#-5/3律，设定为初始值
+    alpha = -5/3 #-5/3 Law
     t0 = 10
     tp = time[np.where(flux == np.max(flux))[0][0]]
     amp = np.max(flux)
@@ -121,7 +109,7 @@ def Gauss_C_fitting(time,flux,t0,f_max,C=0,sigma0=20):
    
     
 
-    initial_guess = [tm, sigma,amp,c]  # 初始猜测值
+    initial_guess = [tm, sigma,amp,c]  
     bounds = [[tm-5,1,0.5*amp,-0.1],[np.inf,10**1.5,np.inf,0.1]]
     
     
@@ -189,7 +177,7 @@ def powerlaw_fitting(time,flux):
 def gauss_and_exp_fitting(time,flux,t0,Flag,f_max,C=0,tau0=-20,sigma0=20):
 
    
-    tau = tau0#这个时标指代的是peak之后多少天，该源的流量下降到原先的三分之一
+    tau = tau0
     f_max = abs(f_max)
     #print('t0 = ',t0)
     
@@ -217,32 +205,32 @@ def gauss_and_exp_fitting(time,flux,t0,Flag,f_max,C=0,tau0=-20,sigma0=20):
 
 
 def cross_point_check_for_fitting_data(lc_g, lc_r, pkt):
-    # 判断g, r波段交点是否符合条件，且出现在峰值后一个月内
+   
     
     import numpy as np
 
-    # 提取光变曲线数据
-    flux1 = np.array(lc_g[1])  # g波段的flux值
-    flux2 = np.array(lc_r[1])  # r波段的flux值
-    time = np.array(lc_g[0])   # 共同的时间轴
     
-    # 计算两条光变曲线的差值
+    flux1 = np.array(lc_g[1]) 
+    flux2 = np.array(lc_r[1])  
+    time = np.array(lc_g[0])  
+    
+    
     diff = flux1 - flux2
     
-    # 找到相邻点符号变化的位置（即交点）
+   
     indices = np.where(np.diff(np.sign(diff)) != 0)[0]
     
-    # 遍历所有交点位置
+   
     for idx in indices:
         intersection_time = time[idx]
         
-        # 检查交点是否出现在峰值后30天内
+        
         if pkt < intersection_time <= pkt + 30:
-            # 判断交点之后g波段是否持续小于r波段
+            
             if np.all(flux1[idx + 1:] < flux2[idx + 1:]):
-                return False  # 满足条件，返回False
+                return False  
     
-    # 如果没有符合条件的交点，返回True
+    
     return True
 
 def photometry_color_forced_test(lc_g, lc_r, pkt,lc_type = 'fitting'):
@@ -251,22 +239,22 @@ def photometry_color_forced_test(lc_g, lc_r, pkt,lc_type = 'fitting'):
         from scipy.stats import pearsonr
         import numpy as np
 
-        # 提取g波段和r波段的flux和时间数据
+        
         flux_g = np.array(lc_g[1])
         flux_r = np.array(lc_r[1])
         time_g = np.array(lc_g[0])
         time_r = np.array(lc_r[0])
 
-        # 转换flux为星等
+        
         C = 25
         mag_g = -2.5 * np.log10(flux_g) + C
         mag_r = -2.5 * np.log10(flux_r) + C
 
-        # 设置峰值时间和30天的时间窗口
+        
         peak_time = pkt
         end_time = peak_time + 100
 
-        # 仅选取峰值后30天内的数据
+        
         indices_g = np.where((time_g >= peak_time) & (time_g < end_time))[0]
         indices_r = np.where((time_r >= peak_time) & (time_r < end_time))[0]
         
@@ -275,23 +263,23 @@ def photometry_color_forced_test(lc_g, lc_r, pkt,lc_type = 'fitting'):
         post_peak_mag_g = mag_g[indices_g]
         post_peak_mag_r = mag_r[indices_r]
 
-        # 设置时间窗口
+        
         window_size = 10
         num_segments = int(np.ceil((end_time - peak_time) / window_size))
 
-        # 计算每个时间段的 mag_g - mag_r
+        
         mag_diff_segments = []
 
         for i in range(num_segments):
             segment_start = peak_time + i * window_size
             segment_end = segment_start + window_size
 
-            # 找到当前时间段内的g和r数据点
+            
             segment_indices_g = np.where((post_peak_time_g >= segment_start) & (post_peak_time_g < segment_end))[0]
             segment_indices_r = np.where((post_peak_time_r >= segment_start) & (post_peak_time_r < segment_end))[0]
 
             if len(segment_indices_g) > 0 and len(segment_indices_r) > 0:
-                # 处理g和r数据点数目不一致的情况
+                
                 if len(segment_indices_g) > len(segment_indices_r):
                     mag_diff = []
                     for idx in segment_indices_r:
@@ -307,7 +295,7 @@ def photometry_color_forced_test(lc_g, lc_r, pkt,lc_type = 'fitting'):
                     mag_diff_segments.append(np.mean(mag_diff))
 
                 else:
-                    # 当g和r数目相同时，直接计算mag_g - mag_r的平均值
+                    
                     mag_diff = post_peak_mag_g[segment_indices_g] - post_peak_mag_r[segment_indices_r]
                     mag_diff_segments.append(np.mean(mag_diff))
 
@@ -315,7 +303,7 @@ def photometry_color_forced_test(lc_g, lc_r, pkt,lc_type = 'fitting'):
                 #print('?')
                 continue
 
-        # 计算 mag_diff_segments 的变化情况
+       
        
         
         mag_diff_segments = np.array(mag_diff_segments)
