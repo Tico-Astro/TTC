@@ -14,3 +14,10 @@ Please note that WFST-related data is currently not publicly available.  As a re
 ⚠️ This means the code may not run out of the box without additional data or reconstruction of specific components.
 
 We appreciate your understanding.  Feel free to open an issue if you have any questions or need assistance preparing your own dataset for testing.
+
+## Acknowledgements
+
+This project is built upon [Mgformer](https://doi.org/10.1016/j.engappai.2024.108633). We gratefully acknowledge their contributions.
+
+The source code or model has been adapted from the following repository:
+(https://github.com/LiYunxiaoboy/mgformer)
