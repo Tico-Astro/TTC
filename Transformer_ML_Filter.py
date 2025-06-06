@@ -5,7 +5,7 @@ Created on Thu Nov 28 17:25:46 2024
 
 @author: astronomy_zrf
 
-该程序用于处理数据与模型读取
+该程序用于处理数据与模型读取，为Project的核心程序
 
 需要的参量: 归一化参数，模型本身
 
@@ -163,38 +163,6 @@ def load_model(model_name = "test_model_ZTF.pth",model_type='normal'):
     prop['device'] = torch.device('cuda:0' if torch.cuda.is_available() else "cpu")
    
     
-    '''
-    #对应copy5那个取消位置编码情况下的最喜欢的模型（要改模型），以及copy5
-
-    parser = argparse.ArgumentParser()
-    #parser.add_argument('--dataset', type=str, default='ZTF_target(纯粹原始数据)-Copy1')#不要用ZTF_target(纯粹原始数据)，数据是错的
-    #parser.add_argument('--dataset', type=str, default='ZTF_target(改良型数据增强-防止泄露)')
-    #parser.add_argument('--dataset', type=str, default='ZTF_target(三分类-上升段)')
-    parser.add_argument('--dataset', type=str, default='ZTF_target(改良型数据增强-仅训练集)')#不要用ZTF_target(纯粹原始数据)，数据是错的
-    #默认是[1]，超参错了就调这里
-    parser.add_argument('--multi_group', type=list, default=[1,3],
-                        help='Input list')  # group<=math.ceil(sqrt(seq_len))
-    parser.add_argument('--batch', type=int, default=8, help='Dataset batch')
-    parser.add_argument('--lr', type=float, default=0.0001)
-    parser.add_argument('--nlayers', type=int, default=2)
-    parser.add_argument('--emb_size', type=int, default=128)
-    parser.add_argument('--nhead', type=int, default=8)
-    parser.add_argument('--emb_size_c', type=int, default=128)
-    parser.add_argument('--masking_ratio', type=float, default=0.01)
-    parser.add_argument('--epochs', type=int, default=20)
-    parser.add_argument('--ratio_highest_attention', type=float, default=0.75)
-    #parser.add_argument('--dropout', type=float, default=0.01)
-    parser.add_argument('--dropout', type=float, default=0.01)
-    parser.add_argument('--nhid', type=int, default=128)
-    parser.add_argument('--nhid_c', type=int, default=128)
-    args = parser.parse_args(args=[])
-    prop = utils.get_prop(args)
-    prop['multi_group'] = [int(patch_index) for patch_index in prop['multi_group']]
-    prop['batch_true'] = 1
-    prop['nclasses'] = 3
-    prop['seq_len'], prop['input_size'] = 200, 4
-    prop['device'] = torch.device('cuda:0' if torch.cuda.is_available() else "cpu")
-    '''    
     
     
     model = MgMcFORMER(prop['multi_group'], prop['nclasses'], prop['seq_len'], prop['input_size'], prop['emb_size'], \
@@ -764,11 +732,11 @@ def classify_tensor(tensor, CLASS_NAMES=["TDE", "SN Ia", "SN Ib/c", "SN II", "SL
     predicted_class = CLASS_NAMES[max_index]
 
     extra_line = ""
-    if 0.02 <= scores[0] < 0.1:
+    if 0.03 <= scores[0] < 0.5:
         extra_line = "Weak Candidate"
-    elif 0.1 <= scores[0] < 0.75:
+    elif 0.5 <= scores[0] < 0.8:
         extra_line = "Normal Candidate"
-    elif scores[0] >= 0.75:
+    elif scores[0] >= 0.8:
         extra_line = "Strong Candidate"
 
     if verbose:
