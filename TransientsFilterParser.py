@@ -1,16 +1,7 @@
 import numpy as np
-#from WFSTtools.BasicLoggingTools import log_out
-#from WFSTtools.Algorithm import Neumann_ratio
 import matplotlib.pyplot as plt
 
 from sys import path
-
-path.append('/home/wfstdbadmin/project_WFST/WFST_editable_modules/DIFF_EditableModules/zrf')
-path.append('/home/wfstdbadmin/project_WFST/WFST_editable_modules/DIFF_EditableModules/zrf/Filter_open')
-path.append('/home/wfstdbadmin/project_WFST/WFST_editable_modules/DIFF_EditableModules/zrf/Mgformer-Filter')
-path.append('/Users/astronomy_zrf/Desktop/工作文献2/机器学习/WFST光变曲线读取')
-path.append('/Users/astronomy_zrf/Desktop/工作文献2/机器学习/WFST光变曲线读取/Selected_LC/SN_like_from_WFST')
-
 
 import External_check
 import Curve_Fitting_Filter as CFF
@@ -23,10 +14,6 @@ warnings.filterwarnings("ignore")
 
 
 
-FILTER_MAP_NAME='TDE_candidate1' #如果不希望之前 filter得到的 map被覆盖掉/抹除，则可以换个新名称
-
-
-N_PROCESSOR=25 #使用的并行进程数，建议不要超过30个
 
 # Construct LC
 
@@ -166,14 +153,6 @@ def sources_filter(candidate_source):
 
     source_name = str(candidate_source['objectID'])
     lc_data = from_json_to_lc(candidate_source)
-
-    
-
-    lc_g = clean_lc(lc_data.g)
-    lc_r = clean_lc(lc_data.r)
-    
-    if len(lc_g[0])<=10 or len(lc_r[0])<=10:         
-        return False
     
     flux_limit_g = flux_max_check(lc_g[1]);flux_limit_r = flux_max_check(lc_r[1])
     
@@ -182,13 +161,8 @@ def sources_filter(candidate_source):
     else:
         return False
     
-    if len(lc_g[0])<=10 or len(lc_r[0])<=10:
+    if len(lc_g[0])<=6 or len(lc_r[0])<=6:
         return False
-    
-    
-    
-    
-    
 
     #if CFF.Fitting_criteria_single_band(lc_g[0], lc_g[1])[0] and CFF.Fitting_criteria_single_band(lc_r[0], lc_r[1])[0]:
     if CFF.Fitting_criteria(lc_g,lc_r):
@@ -221,9 +195,10 @@ if __name__ == "__main__":
     import rdlc_ZTF
     import PLAsTICC_res
     import rdlf_WFST_json
+
     
-    LC_typefile = 'WFST'
-    data_lc = "/Users/astronomy_zrf/Desktop/工作相关/WFST超新星验证集/疑似SN/WFST_LC_9482087346208995_WFST J104434.56+042812.7.txt"
+    LC_typefile = 'ZTF'
+    data_lc = "./usr/database/" #数据库目录
     
     
     if LC_typefile == 'WFST':
