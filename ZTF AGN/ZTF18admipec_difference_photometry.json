@@ -1,0 +1,403 @@
+{
+    "objectId": "ZTF18admipec",
+    "candidates": [
+        {
+            "candid": 2684490190415010008,
+            "jd": 2460438.9901968,
+            "ra": 14.603695,
+            "dec": 45.359536,
+            "fid": 2,
+            "nid": 2684,
+            "magpsf": 18.706600189208984,
+            "sigmapsf": 0.1861030012369156,
+            "magnr": 16.30900001525879,
+            "sigmagnr": 0.027000000700354576,
+            "magzpsci": 26.132600784301758,
+            "isdiffpos": "f",
+            "ssdistnr": null,
+            "ssnamenr": null,
+            "drb": null
+        },
+        {
+            "candid": 2685482030415010009,
+            "jd": 2460439.982037,
+            "ra": 14.6037967,
+            "dec": 45.3594131,
+            "fid": 2,
+            "nid": 2685,
+            "magpsf": 18.75079917907715,
+            "sigmapsf": 0.1672080010175705,
+            "magnr": 16.30900001525879,
+            "sigmagnr": 0.027000000700354576,
+            "magzpsci": 26.0137996673584,
+            "isdiffpos": "f",
+            "ssdistnr": null,
+            "ssnamenr": null,
+            "drb": null
+        },
+        {
+            "candid": 2685485930415010014,
+            "jd": 2460439.9859375,
+            "ra": 14.6038185,
+            "dec": 45.3594223,
+            "fid": 2,
+            "nid": 2685,
+            "magpsf": 18.95840072631836,
+            "sigmapsf": 0.15724900364875793,
+            "magnr": 16.30900001525879,
+            "sigmagnr": 0.027000000700354576,
+            "magzpsci": 26.035400390625,
+            "isdiffpos": "f",
+            "ssdistnr": null,
+            "ssnamenr": null,
+            "drb": null
+        },
+        {
+            "candid": 2688487214115010006,
+            "jd": 2460442.9872106,
+            "ra": 14.6037098,
+            "dec": 45.3595206,
+            "fid": 2,
+            "nid": 2688,
+            "magpsf": 18.563400268554688,
+            "sigmapsf": 0.15626999735832214,
+            "magnr": 16.236000061035156,
+            "sigmagnr": 0.029999999329447746,
+            "magzpsci": 26.24839973449707,
+            "isdiffpos": "f",
+            "ssdistnr": null,
+            "ssnamenr": null,
+            "drb": null
+        },
+        {
+            "candid": 2689487564115010013,
+            "jd": 2460443.9875694,
+            "ra": 14.6038092,
+            "dec": 45.3594687,
+            "fid": 2,
+            "nid": 2689,
+            "magpsf": 18.347700119018555,
+            "sigmapsf": 0.13783100247383118,
+            "magnr": 16.236000061035156,
+            "sigmagnr": 0.029999999329447746,
+            "magzpsci": 26.22369956970215,
+            "isdiffpos": "f",
+            "ssdistnr": null,
+            "ssnamenr": null,
+            "drb": null
+        },
+        {
+            "candid": 2693471350415010006,
+            "jd": 2460447.9713542,
+            "ra": 14.6038541,
+            "dec": 45.3595296,
+            "fid": 2,
+            "nid": 2693,
+            "magpsf": 19.128400802612305,
+            "sigmapsf": 0.16187399625778198,
+            "magnr": 16.30900001525879,
+            "sigmagnr": 0.027000000700354576,
+            "magzpsci": 26.138399124145508,
+            "isdiffpos": "f",
+            "ssdistnr": null,
+            "ssnamenr": null,
+            "drb": null
+        },
+        {
+            "candid": 2696470330415010002,
+            "jd": 2460450.9703356,
+            "ra": 14.6037718,
+            "dec": 45.3595492,
+            "fid": 2,
+            "nid": 2696,
+            "magpsf": 18.943899154663086,
+            "sigmapsf": 0.19630399346351624,
+            "magnr": 16.30900001525879,
+            "sigmagnr": 0.027000000700354576,
+            "magzpsci": 26.138900756835938,
+            "isdiffpos": "f",
+            "ssdistnr": null,
+            "ssnamenr": null,
+            "drb": null
+        },
+        {
+            "candid": 2696473760415010006,
+            "jd": 2460450.9737616,
+            "ra": 14.6033075,
+            "dec": 45.3594913,
+            "fid": 2,
+            "nid": 2696,
+            "magpsf": 18.87700843811035,
+            "sigmapsf": 0.1708337515592575,
+            "magnr": 16.30900001525879,
+            "sigmagnr": 0.027000000700354576,
+            "magzpsci": 26.149009704589844,
+            "isdiffpos": "f",
+            "ssdistnr": -999.0,
+            "ssnamenr": "null",
+            "drb": null
+        },
+        {
+            "jd": 2460434.9965972,
+            "fid": 2,
+            "diffmaglim": 18.882099151611328
+        },
+        {
+            "jd": 2460434.9970718,
+            "fid": 2,
+            "diffmaglim": 18.81679916381836
+        },
+        {
+            "jd": 2460434.9975347,
+            "fid": 2,
+            "diffmaglim": 18.7362003326416
+        },
+        {
+            "jd": 2460437.988044,
+            "fid": 2,
+            "diffmaglim": 19.39430046081543
+        },
+        {
+            "jd": 2460438.9861458,
+            "fid": 2,
+            "diffmaglim": 19.29840087890625
+        },
+        {
+            "jd": 2460440.9782639,
+            "fid": 2,
+            "diffmaglim": 19.662399291992188
+        },
+        {
+            "jd": 2460440.9821759,
+            "fid": 2,
+            "diffmaglim": 19.527299880981445
+        },
+        {
+            "jd": 2460440.986088,
+            "fid": 2,
+            "diffmaglim": 19.401100158691406
+        },
+        {
+            "jd": 2460442.9867477,
+            "fid": 2,
+            "diffmaglim": 19.472400665283203
+        },
+        {
+            "jd": 2460442.9876852,
+            "fid": 2,
+            "diffmaglim": 19.396099090576172
+        },
+        {
+            "jd": 2460443.988044,
+            "fid": 2,
+            "diffmaglim": 19.002599716186523
+        },
+        {
+            "jd": 2460443.9885185,
+            "fid": 2,
+            "diffmaglim": 18.844900131225586
+        },
+        {
+            "jd": 2460444.9840509,
+            "fid": 2,
+            "diffmaglim": 19.799800872802734
+        },
+        {
+            "jd": 2460444.9845255,
+            "fid": 2,
+            "diffmaglim": 19.846799850463867
+        },
+        {
+            "jd": 2460444.985,
+            "fid": 2,
+            "diffmaglim": 19.77829933166504
+        },
+        {
+            "jd": 2460446.9832176,
+            "fid": 2,
+            "diffmaglim": 19.420900344848633
+        },
+        {
+            "jd": 2460446.9836921,
+            "fid": 2,
+            "diffmaglim": 19.322099685668945
+        },
+        {
+            "jd": 2460446.9841667,
+            "fid": 2,
+            "diffmaglim": 19.28420066833496
+        },
+        {
+            "jd": 2460447.9742361,
+            "fid": 2,
+            "diffmaglim": 19.81879997253418
+        },
+        {
+            "jd": 2460447.9781481,
+            "fid": 2,
+            "diffmaglim": 19.614200592041016
+        },
+        {
+            "jd": 2460448.9712384,
+            "fid": 2,
+            "diffmaglim": 18.392200469970703
+        },
+        {
+            "jd": 2460448.9747454,
+            "fid": 2,
+            "diffmaglim": 19.292999267578125
+        },
+        {
+            "jd": 2460448.9781597,
+            "fid": 2,
+            "diffmaglim": 19.289199829101562
+        },
+        {
+            "jd": 2460449.9704514,
+            "fid": 2,
+            "diffmaglim": 19.73819923400879
+        },
+        {
+            "jd": 2460449.9733796,
+            "fid": 2,
+            "diffmaglim": 19.86079978942871
+        },
+        {
+            "jd": 2460449.9768171,
+            "fid": 2,
+            "diffmaglim": 19.707000732421875
+        }
+    ],
+    "forcedphot": [
+        {
+            "objectid": "ZTF18admipec",
+            "jd": 2460434.9975347,
+            "ranr": 14.603955,
+            "decnr": 45.3595469,
+            "fid": 2,
+            "forcediffimflux": -523.515625,
+            "forcediffimfluxunc": 103.05433654785156,
+            "magzpsci": 26.108299255371094
+        },
+        {
+            "objectid": "ZTF18admipec",
+            "jd": 2460437.988044,
+            "ranr": 14.603955,
+            "decnr": 45.3595469,
+            "fid": 2,
+            "forcediffimflux": -317.6811218261719,
+            "forcediffimfluxunc": 59.009708404541016,
+            "magzpsci": 26.109500885009766
+        },
+        {
+            "objectid": "ZTF18admipec",
+            "jd": 2460438.9901968,
+            "ranr": 14.603955,
+            "decnr": 45.3595469,
+            "fid": 2,
+            "forcediffimflux": -756.9149780273438,
+            "forcediffimfluxunc": 75.05482482910156,
+            "magzpsci": 26.132600784301758
+        },
+        {
+            "objectid": "ZTF18admipec",
+            "jd": 2460439.9859375,
+            "ranr": 14.603955,
+            "decnr": 45.3595469,
+            "fid": 2,
+            "forcediffimflux": -537.5678100585938,
+            "forcediffimfluxunc": 68.09585571289062,
+            "magzpsci": 26.035400390625
+        },
+        {
+            "objectid": "ZTF18admipec",
+            "jd": 2460440.986088,
+            "ranr": 14.603955,
+            "decnr": 45.3595469,
+            "fid": 2,
+            "forcediffimflux": -375.5577392578125,
+            "forcediffimfluxunc": 59.64474105834961,
+            "magzpsci": 26.11840057373047
+        },
+        {
+            "objectid": "ZTF18admipec",
+            "jd": 2460442.9876852,
+            "ranr": -99999.0,
+            "decnr": -99999.0,
+            "fid": 2,
+            "forcediffimflux": -99999.0,
+            "forcediffimfluxunc": -99999.0,
+            "magzpsci": 26.189699172973633
+        },
+        {
+            "objectid": "ZTF18admipec",
+            "jd": 2460443.9885185,
+            "ranr": -99999.0,
+            "decnr": -99999.0,
+            "fid": 2,
+            "forcediffimflux": -99999.0,
+            "forcediffimfluxunc": -99999.0,
+            "magzpsci": 26.188600540161133
+        },
+        {
+            "objectid": "ZTF18admipec",
+            "jd": 2460444.985,
+            "ranr": -99999.0,
+            "decnr": -99999.0,
+            "fid": 2,
+            "forcediffimflux": -99999.0,
+            "forcediffimfluxunc": -99999.0,
+            "magzpsci": 26.27079963684082
+        },
+        {
+            "objectid": "ZTF18admipec",
+            "jd": 2460446.9841667,
+            "ranr": -99999.0,
+            "decnr": -99999.0,
+            "fid": 2,
+            "forcediffimflux": -99999.0,
+            "forcediffimfluxunc": -99999.0,
+            "magzpsci": 26.24799919128418
+        },
+        {
+            "objectid": "ZTF18admipec",
+            "jd": 2460447.9781481,
+            "ranr": 14.603955,
+            "decnr": 45.3595469,
+            "fid": 2,
+            "forcediffimflux": -506.06085205078125,
+            "forcediffimfluxunc": 48.59189987182617,
+            "magzpsci": 26.163299560546875
+        },
+        {
+            "objectid": "ZTF18admipec",
+            "jd": 2460448.9781597,
+            "ranr": 14.603955,
+            "decnr": 45.3595469,
+            "fid": 2,
+            "forcediffimflux": -461.9380798339844,
+            "forcediffimfluxunc": 49.23727798461914,
+            "magzpsci": 25.91230010986328
+        },
+        {
+            "objectid": "ZTF18admipec",
+            "jd": 2460449.9768171,
+            "ranr": 14.603955,
+            "decnr": 45.3595469,
+            "fid": 2,
+            "forcediffimflux": -423.7572021484375,
+            "forcediffimfluxunc": 45.701290130615234,
+            "magzpsci": 26.17919921875
+        },
+        {
+            "objectid": "ZTF18admipec",
+            "jd": 2460450.9703356,
+            "ranr": 14.603955,
+            "decnr": 45.3595469,
+            "fid": 2,
+            "forcediffimflux": -604.9774780273438,
+            "forcediffimfluxunc": 55.65011215209961,
+            "magzpsci": 26.138900756835938
+        }
+    ]
+}
