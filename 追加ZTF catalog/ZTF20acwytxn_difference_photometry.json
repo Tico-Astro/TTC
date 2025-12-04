@@ -1,0 +1,1847 @@
+[
+    {
+        "MJD": "59486.156343",
+        "filter": "r",
+        "unforced_mag": "19.727",
+        "unforced_mag_error": "0.166",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59486.132477",
+        "filter": "g",
+        "unforced_mag": "19.213",
+        "unforced_mag_error": "0.144",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59480.173032",
+        "filter": "r",
+        "unforced_mag": "19.538",
+        "unforced_mag_error": "0.222",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59480.160093",
+        "filter": "g",
+        "unforced_mag": "19.395",
+        "unforced_mag_error": "0.175",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59478.176018",
+        "filter": "r",
+        "unforced_mag": "19.096",
+        "unforced_mag_error": "",
+        "unforced_mag_status": "limit",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59478.154745",
+        "filter": "g",
+        "unforced_mag": "18.944",
+        "unforced_mag_error": "",
+        "unforced_mag_status": "limit",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59476.180417",
+        "filter": "r",
+        "unforced_mag": "19.083",
+        "unforced_mag_error": "",
+        "unforced_mag_status": "limit",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59476.162755",
+        "filter": "g",
+        "unforced_mag": "19.622",
+        "unforced_mag_error": "0.311",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59473.184051",
+        "filter": "g",
+        "unforced_mag": "19.618",
+        "unforced_mag_error": "0.205",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59473.152755",
+        "filter": "r",
+        "unforced_mag": "20.047",
+        "unforced_mag_error": "",
+        "unforced_mag_status": "limit",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59470.197060",
+        "filter": "g",
+        "unforced_mag": "19.750",
+        "unforced_mag_error": "",
+        "unforced_mag_status": "limit",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59470.141748",
+        "filter": "r",
+        "unforced_mag": "20.197",
+        "unforced_mag_error": "0.214",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59468.152049",
+        "filter": "g",
+        "unforced_mag": "19.674",
+        "unforced_mag_error": "0.135",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59466.152326",
+        "filter": "r",
+        "unforced_mag": "20.027",
+        "unforced_mag_error": "0.140",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59464.224815",
+        "filter": "r",
+        "unforced_mag": "19.996",
+        "unforced_mag_error": "",
+        "unforced_mag_status": "limit",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59464.166956",
+        "filter": "g",
+        "unforced_mag": "19.643",
+        "unforced_mag_error": "0.151",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59464.166956",
+        "filter": "g",
+        "unforced_mag": "19.643",
+        "unforced_mag_error": "0.151",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59462.206921",
+        "filter": "r",
+        "unforced_mag": "20.207",
+        "unforced_mag_error": "",
+        "unforced_mag_status": "limit",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59462.174745",
+        "filter": "g",
+        "unforced_mag": "19.711",
+        "unforced_mag_error": "0.151",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59460.227558",
+        "filter": "r",
+        "unforced_mag": "20.077",
+        "unforced_mag_error": "0.240",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59460.185289",
+        "filter": "g",
+        "unforced_mag": "19.799",
+        "unforced_mag_error": "0.187",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59458.197523",
+        "filter": "r",
+        "unforced_mag": "20.455",
+        "unforced_mag_error": "0.270",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59454.184051",
+        "filter": "g",
+        "unforced_mag": "19.942",
+        "unforced_mag_error": "0.160",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59452.246435",
+        "filter": "r",
+        "unforced_mag": "17.144",
+        "unforced_mag_error": "",
+        "unforced_mag_status": "limit",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59450.215451",
+        "filter": "g",
+        "unforced_mag": "19.171",
+        "unforced_mag_error": "",
+        "unforced_mag_status": "limit",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59447.205289",
+        "filter": "r",
+        "unforced_mag": "19.480",
+        "unforced_mag_error": "",
+        "unforced_mag_status": "limit",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59447.183958",
+        "filter": "g",
+        "unforced_mag": "19.283",
+        "unforced_mag_error": "",
+        "unforced_mag_status": "limit",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59443.263542",
+        "filter": "r",
+        "unforced_mag": "18.895",
+        "unforced_mag_error": "",
+        "unforced_mag_status": "limit",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59443.184711",
+        "filter": "g",
+        "unforced_mag": "19.349",
+        "unforced_mag_error": "",
+        "unforced_mag_status": "limit",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59441.214167",
+        "filter": "g",
+        "unforced_mag": "19.761",
+        "unforced_mag_error": "",
+        "unforced_mag_status": "limit",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59441.173391",
+        "filter": "r",
+        "unforced_mag": "19.903",
+        "unforced_mag_error": "",
+        "unforced_mag_status": "limit",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59439.177164",
+        "filter": "g",
+        "unforced_mag": "19.876",
+        "unforced_mag_error": "0.207",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59436.249236",
+        "filter": "g",
+        "unforced_mag": "19.857",
+        "unforced_mag_error": "0.214",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59434.213252",
+        "filter": "g",
+        "unforced_mag": "19.934",
+        "unforced_mag_error": "0.150",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59429.274178",
+        "filter": "g",
+        "unforced_mag": "19.951",
+        "unforced_mag_error": "0.170",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59427.234896",
+        "filter": "g",
+        "unforced_mag": "19.873",
+        "unforced_mag_error": "0.127",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59427.194734",
+        "filter": "r",
+        "unforced_mag": "20.573",
+        "unforced_mag_error": "",
+        "unforced_mag_status": "limit",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59425.247176",
+        "filter": "g",
+        "unforced_mag": "19.967",
+        "unforced_mag_error": "0.153",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59425.195845",
+        "filter": "r",
+        "unforced_mag": "20.204",
+        "unforced_mag_error": "0.166",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59423.244433",
+        "filter": "r",
+        "unforced_mag": "20.341",
+        "unforced_mag_error": "",
+        "unforced_mag_status": "limit",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59423.207315",
+        "filter": "g",
+        "unforced_mag": "20.103",
+        "unforced_mag_error": "0.150",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59419.236146",
+        "filter": "r",
+        "unforced_mag": "18.610",
+        "unforced_mag_error": "",
+        "unforced_mag_status": "limit",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59419.224641",
+        "filter": "g",
+        "unforced_mag": "19.039",
+        "unforced_mag_error": "",
+        "unforced_mag_status": "limit",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59417.256690",
+        "filter": "r",
+        "unforced_mag": "16.480",
+        "unforced_mag_error": "",
+        "unforced_mag_status": "limit",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59414.254282",
+        "filter": "g",
+        "unforced_mag": "19.735",
+        "unforced_mag_error": "0.204",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59411.214780",
+        "filter": "r",
+        "unforced_mag": "20.031",
+        "unforced_mag_error": "0.230",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59411.192674",
+        "filter": "g",
+        "unforced_mag": "19.710",
+        "unforced_mag_error": "0.158",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59409.205625",
+        "filter": "r",
+        "unforced_mag": "20.183",
+        "unforced_mag_error": "0.171",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59407.246296",
+        "filter": "g",
+        "unforced_mag": "19.879",
+        "unforced_mag_error": "0.160",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59407.208299",
+        "filter": "r",
+        "unforced_mag": "20.162",
+        "unforced_mag_error": "0.183",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59405.194792",
+        "filter": "r",
+        "unforced_mag": "20.542",
+        "unforced_mag_error": "",
+        "unforced_mag_status": "limit",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59403.258252",
+        "filter": "g",
+        "unforced_mag": "19.870",
+        "unforced_mag_error": "0.277",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59403.227141",
+        "filter": "r",
+        "unforced_mag": "20.438",
+        "unforced_mag_error": "",
+        "unforced_mag_status": "limit",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59401.309271",
+        "filter": "r",
+        "unforced_mag": "20.212",
+        "unforced_mag_error": "0.197",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59401.252523",
+        "filter": "g",
+        "unforced_mag": "19.914",
+        "unforced_mag_error": "0.187",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59399.256667",
+        "filter": "g",
+        "unforced_mag": "19.896",
+        "unforced_mag_error": "0.142",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59399.211794",
+        "filter": "r",
+        "unforced_mag": "20.268",
+        "unforced_mag_error": "0.198",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59396.275671",
+        "filter": "g",
+        "unforced_mag": "19.897",
+        "unforced_mag_error": "0.194",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59396.229456",
+        "filter": "r",
+        "unforced_mag": "20.225",
+        "unforced_mag_error": "0.207",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59394.274421",
+        "filter": "r",
+        "unforced_mag": "20.246",
+        "unforced_mag_error": "0.197",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59394.229086",
+        "filter": "g",
+        "unforced_mag": "19.948",
+        "unforced_mag_error": "0.149",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59392.318507",
+        "filter": "r",
+        "unforced_mag": "20.036",
+        "unforced_mag_error": "",
+        "unforced_mag_status": "limit",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59392.232130",
+        "filter": "g",
+        "unforced_mag": "19.861",
+        "unforced_mag_error": "0.141",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59390.317801",
+        "filter": "r",
+        "unforced_mag": "19.799",
+        "unforced_mag_error": "",
+        "unforced_mag_status": "limit",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59390.227361",
+        "filter": "g",
+        "unforced_mag": "19.709",
+        "unforced_mag_error": "0.195",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59386.295324",
+        "filter": "g",
+        "unforced_mag": "19.490",
+        "unforced_mag_error": "",
+        "unforced_mag_status": "limit",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59386.228310",
+        "filter": "r",
+        "unforced_mag": "19.866",
+        "unforced_mag_error": "0.231",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59384.325231",
+        "filter": "r",
+        "unforced_mag": "20.245",
+        "unforced_mag_error": "0.351",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59382.321146",
+        "filter": "r",
+        "unforced_mag": "20.156",
+        "unforced_mag_error": "0.219",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59382.300694",
+        "filter": "g",
+        "unforced_mag": "19.828",
+        "unforced_mag_error": "0.183",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59380.351887",
+        "filter": "r",
+        "unforced_mag": "20.289",
+        "unforced_mag_error": "0.236",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59378.254375",
+        "filter": "r",
+        "unforced_mag": "20.239",
+        "unforced_mag_error": "0.188",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59378.226643",
+        "filter": "g",
+        "unforced_mag": "19.943",
+        "unforced_mag_error": "0.142",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59376.337292",
+        "filter": "g",
+        "unforced_mag": "19.918",
+        "unforced_mag_error": "0.130",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59376.297546",
+        "filter": "r",
+        "unforced_mag": "20.192",
+        "unforced_mag_error": "0.187",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59374.275000",
+        "filter": "r",
+        "unforced_mag": "18.630",
+        "unforced_mag_error": "",
+        "unforced_mag_status": "limit",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59372.339769",
+        "filter": "g",
+        "unforced_mag": "18.531",
+        "unforced_mag_error": "",
+        "unforced_mag_status": "limit",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59372.316134",
+        "filter": "r",
+        "unforced_mag": "17.137",
+        "unforced_mag_error": "",
+        "unforced_mag_status": "limit",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59370.339884",
+        "filter": "r",
+        "unforced_mag": "20.315",
+        "unforced_mag_error": "0.180",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59370.233981",
+        "filter": "g",
+        "unforced_mag": "20.036",
+        "unforced_mag_error": "0.128",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59368.343889",
+        "filter": "g",
+        "unforced_mag": "20.087",
+        "unforced_mag_error": "0.165",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59368.295648",
+        "filter": "r",
+        "unforced_mag": "20.440",
+        "unforced_mag_error": "0.208",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59366.349491",
+        "filter": "r",
+        "unforced_mag": "20.374",
+        "unforced_mag_error": "0.241",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59366.295880",
+        "filter": "g",
+        "unforced_mag": "20.008",
+        "unforced_mag_error": "0.162",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59364.315995",
+        "filter": "r",
+        "unforced_mag": "20.526",
+        "unforced_mag_error": "0.242",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59362.380532",
+        "filter": "g",
+        "unforced_mag": "19.787",
+        "unforced_mag_error": "0.197",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59362.290498",
+        "filter": "r",
+        "unforced_mag": "20.026",
+        "unforced_mag_error": "",
+        "unforced_mag_status": "limit",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59359.304676",
+        "filter": "g",
+        "unforced_mag": "19.409",
+        "unforced_mag_error": "",
+        "unforced_mag_status": "limit",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59359.238264",
+        "filter": "r",
+        "unforced_mag": "19.315",
+        "unforced_mag_error": "",
+        "unforced_mag_status": "limit",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59356.372037",
+        "filter": "r",
+        "unforced_mag": "20.170",
+        "unforced_mag_error": "0.229",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59356.312373",
+        "filter": "g",
+        "unforced_mag": "20.283",
+        "unforced_mag_error": "0.293",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59354.284167",
+        "filter": "r",
+        "unforced_mag": "20.400",
+        "unforced_mag_error": "0.316",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59352.344792",
+        "filter": "g",
+        "unforced_mag": "20.278",
+        "unforced_mag_error": "0.158",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59352.300648",
+        "filter": "r",
+        "unforced_mag": "20.329",
+        "unforced_mag_error": "0.241",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59349.359144",
+        "filter": "g",
+        "unforced_mag": "20.249",
+        "unforced_mag_error": "0.139",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59349.319792",
+        "filter": "r",
+        "unforced_mag": "20.563",
+        "unforced_mag_error": "0.208",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59347.338032",
+        "filter": "r",
+        "unforced_mag": "20.571",
+        "unforced_mag_error": "",
+        "unforced_mag_status": "limit",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59345.378924",
+        "filter": "g",
+        "unforced_mag": "20.184",
+        "unforced_mag_error": "0.166",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59345.338391",
+        "filter": "r",
+        "unforced_mag": "20.730",
+        "unforced_mag_error": "",
+        "unforced_mag_status": "limit",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59343.329444",
+        "filter": "r",
+        "unforced_mag": "20.330",
+        "unforced_mag_error": "0.198",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59343.280694",
+        "filter": "g",
+        "unforced_mag": "20.320",
+        "unforced_mag_error": "0.206",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59341.319607",
+        "filter": "g",
+        "unforced_mag": "20.193",
+        "unforced_mag_error": "0.178",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59341.285428",
+        "filter": "r",
+        "unforced_mag": "20.316",
+        "unforced_mag_error": "0.171",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59339.360428",
+        "filter": "g",
+        "unforced_mag": "20.079",
+        "unforced_mag_error": "0.151",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59339.319549",
+        "filter": "r",
+        "unforced_mag": "20.754",
+        "unforced_mag_error": "",
+        "unforced_mag_status": "limit",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59336.413738",
+        "filter": "g",
+        "unforced_mag": "20.135",
+        "unforced_mag_error": "0.237",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59336.413738",
+        "filter": "g",
+        "unforced_mag": "20.135",
+        "unforced_mag_error": "0.237",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59336.337893",
+        "filter": "r",
+        "unforced_mag": "20.410",
+        "unforced_mag_error": "0.219",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59336.337893",
+        "filter": "r",
+        "unforced_mag": "20.410",
+        "unforced_mag_error": "0.219",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59334.357836",
+        "filter": "r",
+        "unforced_mag": "20.210",
+        "unforced_mag_error": "",
+        "unforced_mag_status": "limit",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59334.241597",
+        "filter": "g",
+        "unforced_mag": "20.394",
+        "unforced_mag_error": "0.216",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59328.350972",
+        "filter": "g",
+        "unforced_mag": "19.604",
+        "unforced_mag_error": "",
+        "unforced_mag_status": "limit",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59328.297905",
+        "filter": "r",
+        "unforced_mag": "19.908",
+        "unforced_mag_error": "",
+        "unforced_mag_status": "limit",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59324.379861",
+        "filter": "g",
+        "unforced_mag": "20.283",
+        "unforced_mag_error": "0.197",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59324.290000",
+        "filter": "r",
+        "unforced_mag": "20.513",
+        "unforced_mag_error": "0.336",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59322.352755",
+        "filter": "g",
+        "unforced_mag": "20.114",
+        "unforced_mag_error": "0.132",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59322.278241",
+        "filter": "r",
+        "unforced_mag": "20.408",
+        "unforced_mag_error": "0.304",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59320.479421",
+        "filter": "r",
+        "unforced_mag": "20.422",
+        "unforced_mag_error": "0.221",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59317.479572",
+        "filter": "g",
+        "unforced_mag": "20.183",
+        "unforced_mag_error": "0.176",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59317.435914",
+        "filter": "r",
+        "unforced_mag": "20.423",
+        "unforced_mag_error": "0.203",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59315.371609",
+        "filter": "r",
+        "unforced_mag": "20.085",
+        "unforced_mag_error": "",
+        "unforced_mag_status": "limit",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59315.322442",
+        "filter": "g",
+        "unforced_mag": "19.012",
+        "unforced_mag_error": "",
+        "unforced_mag_status": "limit",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59313.477662",
+        "filter": "g",
+        "unforced_mag": "19.983",
+        "unforced_mag_error": "0.202",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59313.420637",
+        "filter": "r",
+        "unforced_mag": "19.709",
+        "unforced_mag_error": "",
+        "unforced_mag_status": "limit",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59311.462674",
+        "filter": "r",
+        "unforced_mag": "20.248",
+        "unforced_mag_error": "0.159",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59311.362917",
+        "filter": "g",
+        "unforced_mag": "20.048",
+        "unforced_mag_error": "0.135",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59309.476285",
+        "filter": "r",
+        "unforced_mag": "20.239",
+        "unforced_mag_error": "0.294",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59309.340764",
+        "filter": "g",
+        "unforced_mag": "19.999",
+        "unforced_mag_error": "0.174",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59307.422743",
+        "filter": "g",
+        "unforced_mag": "19.959",
+        "unforced_mag_error": "0.140",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59307.411308",
+        "filter": "r",
+        "unforced_mag": "20.458",
+        "unforced_mag_error": "",
+        "unforced_mag_status": "limit",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59304.441748",
+        "filter": "r",
+        "unforced_mag": "19.414",
+        "unforced_mag_error": "",
+        "unforced_mag_status": "limit",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59304.422269",
+        "filter": "g",
+        "unforced_mag": "19.082",
+        "unforced_mag_error": "",
+        "unforced_mag_status": "limit",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59302.412639",
+        "filter": "r",
+        "unforced_mag": "19.483",
+        "unforced_mag_error": "",
+        "unforced_mag_status": "limit",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59302.365856",
+        "filter": "g",
+        "unforced_mag": "19.281",
+        "unforced_mag_error": "",
+        "unforced_mag_status": "limit",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59300.423032",
+        "filter": "r",
+        "unforced_mag": "19.323",
+        "unforced_mag_error": "",
+        "unforced_mag_status": "limit",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59300.389526",
+        "filter": "g",
+        "unforced_mag": "19.615",
+        "unforced_mag_error": "0.307",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59297.419896",
+        "filter": "r",
+        "unforced_mag": "19.918",
+        "unforced_mag_error": "0.224",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59297.321551",
+        "filter": "g",
+        "unforced_mag": "19.321",
+        "unforced_mag_error": "0.207",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59295.386609",
+        "filter": "r",
+        "unforced_mag": "20.168",
+        "unforced_mag_error": "",
+        "unforced_mag_status": "limit",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59295.309398",
+        "filter": "g",
+        "unforced_mag": "19.461",
+        "unforced_mag_error": "0.291",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59291.484583",
+        "filter": "g",
+        "unforced_mag": "19.645",
+        "unforced_mag_error": "0.098",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59291.382488",
+        "filter": "r",
+        "unforced_mag": "19.762",
+        "unforced_mag_error": "0.135",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59280.444456",
+        "filter": "r",
+        "unforced_mag": "19.624",
+        "unforced_mag_error": "0.150",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59280.403461",
+        "filter": "g",
+        "unforced_mag": "19.243",
+        "unforced_mag_error": "0.103",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59276.482315",
+        "filter": "r",
+        "unforced_mag": "19.769",
+        "unforced_mag_error": "0.219",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59276.442465",
+        "filter": "g",
+        "unforced_mag": "19.313",
+        "unforced_mag_error": "0.170",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59274.449884",
+        "filter": "g",
+        "unforced_mag": "19.032",
+        "unforced_mag_error": "0.165",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59274.422998",
+        "filter": "r",
+        "unforced_mag": "19.141",
+        "unforced_mag_error": "",
+        "unforced_mag_status": "limit",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59272.486678",
+        "filter": "r",
+        "unforced_mag": "19.486",
+        "unforced_mag_error": "0.197",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59272.425127",
+        "filter": "g",
+        "unforced_mag": "19.155",
+        "unforced_mag_error": "0.266",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59270.495417",
+        "filter": "r",
+        "unforced_mag": "19.432",
+        "unforced_mag_error": "0.158",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59270.455857",
+        "filter": "g",
+        "unforced_mag": "19.071",
+        "unforced_mag_error": "0.152",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59268.506308",
+        "filter": "g",
+        "unforced_mag": "18.993",
+        "unforced_mag_error": "0.071",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59268.477222",
+        "filter": "r",
+        "unforced_mag": "19.350",
+        "unforced_mag_error": "0.111",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59266.525313",
+        "filter": "r",
+        "unforced_mag": "19.401",
+        "unforced_mag_error": "0.206",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59266.507349",
+        "filter": "g",
+        "unforced_mag": "18.879",
+        "unforced_mag_error": "0.125",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59264.524734",
+        "filter": "r",
+        "unforced_mag": "19.292",
+        "unforced_mag_error": "0.100",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59264.498681",
+        "filter": "g",
+        "unforced_mag": "18.862",
+        "unforced_mag_error": "0.089",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59260.508437",
+        "filter": "g",
+        "unforced_mag": "17.489",
+        "unforced_mag_error": "",
+        "unforced_mag_status": "limit",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59256.443900",
+        "filter": "r",
+        "unforced_mag": "19.125",
+        "unforced_mag_error": "0.105",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59254.528715",
+        "filter": "g",
+        "unforced_mag": "18.696",
+        "unforced_mag_error": "0.089",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59254.430868",
+        "filter": "r",
+        "unforced_mag": "19.009",
+        "unforced_mag_error": "0.288",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59251.542407",
+        "filter": "g",
+        "unforced_mag": "18.607",
+        "unforced_mag_error": "0.076",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59249.527199",
+        "filter": "g",
+        "unforced_mag": "18.565",
+        "unforced_mag_error": "0.090",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59249.503218",
+        "filter": "r",
+        "unforced_mag": "19.081",
+        "unforced_mag_error": "0.098",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59232.551887",
+        "filter": "g",
+        "unforced_mag": "18.288",
+        "unforced_mag_error": "0.063",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59232.518264",
+        "filter": "r",
+        "unforced_mag": "18.791",
+        "unforced_mag_error": "0.078",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59230.525544",
+        "filter": "r",
+        "unforced_mag": "18.791",
+        "unforced_mag_error": "0.102",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59230.486505",
+        "filter": "g",
+        "unforced_mag": "18.300",
+        "unforced_mag_error": "0.081",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59228.514849",
+        "filter": "g",
+        "unforced_mag": "18.320",
+        "unforced_mag_error": "0.068",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59228.494861",
+        "filter": "r",
+        "unforced_mag": "18.762",
+        "unforced_mag_error": "0.088",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59226.546644",
+        "filter": "g",
+        "unforced_mag": "18.255",
+        "unforced_mag_error": "0.058",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59226.499155",
+        "filter": "r",
+        "unforced_mag": "18.728",
+        "unforced_mag_error": "0.095",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59224.520116",
+        "filter": "r",
+        "unforced_mag": "18.681",
+        "unforced_mag_error": "0.083",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59221.554803",
+        "filter": "r",
+        "unforced_mag": "18.679",
+        "unforced_mag_error": "0.121",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59221.554800",
+        "filter": "r",
+        "unforced_mag": "19.603",
+        "unforced_mag_error": "",
+        "unforced_mag_status": "limit",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59221.505949",
+        "filter": "g",
+        "unforced_mag": "18.237",
+        "unforced_mag_error": "0.102",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59219.529977",
+        "filter": "g",
+        "unforced_mag": "18.169",
+        "unforced_mag_error": "0.095",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59219.491354",
+        "filter": "r",
+        "unforced_mag": "18.596",
+        "unforced_mag_error": "0.141",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59217.547176",
+        "filter": "g",
+        "unforced_mag": "18.133",
+        "unforced_mag_error": "0.075",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59215.573414",
+        "filter": "g",
+        "unforced_mag": "18.091",
+        "unforced_mag_error": "0.119",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59215.525556",
+        "filter": "r",
+        "unforced_mag": "18.715",
+        "unforced_mag_error": "0.179",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59201.566933",
+        "filter": "r",
+        "unforced_mag": "18.574",
+        "unforced_mag_error": "0.186",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59201.558310",
+        "filter": "r",
+        "unforced_mag": "18.610",
+        "unforced_mag_error": "0.093",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59199.570046",
+        "filter": "r",
+        "unforced_mag": "18.450",
+        "unforced_mag_error": "0.127",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59199.565324",
+        "filter": "r",
+        "unforced_mag": "18.480",
+        "unforced_mag_error": "0.099",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59199.560613",
+        "filter": "r",
+        "unforced_mag": "18.513",
+        "unforced_mag_error": "0.127",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59199.555903",
+        "filter": "r",
+        "unforced_mag": "18.590",
+        "unforced_mag_error": "0.114",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59198.568970",
+        "filter": "r",
+        "unforced_mag": "18.701",
+        "unforced_mag_error": "0.182",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59198.564248",
+        "filter": "r",
+        "unforced_mag": "18.568",
+        "unforced_mag_error": "0.113",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59198.559537",
+        "filter": "r",
+        "unforced_mag": "18.536",
+        "unforced_mag_error": "0.109",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59198.554826",
+        "filter": "r",
+        "unforced_mag": "18.583",
+        "unforced_mag_error": "0.115",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59196.571053",
+        "filter": "r",
+        "unforced_mag": "18.608",
+        "unforced_mag_error": "0.244",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59196.566366",
+        "filter": "r",
+        "unforced_mag": "18.819",
+        "unforced_mag_error": "0.180",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59196.561655",
+        "filter": "r",
+        "unforced_mag": "18.632",
+        "unforced_mag_error": "0.185",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59196.556944",
+        "filter": "r",
+        "unforced_mag": "18.536",
+        "unforced_mag_error": "0.114",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59196.552245",
+        "filter": "r",
+        "unforced_mag": "18.610",
+        "unforced_mag_error": "0.144",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59195.568669",
+        "filter": "r",
+        "unforced_mag": "18.513",
+        "unforced_mag_error": "0.143",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59195.563912",
+        "filter": "r",
+        "unforced_mag": "18.499",
+        "unforced_mag_error": "0.122",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59195.559167",
+        "filter": "r",
+        "unforced_mag": "18.612",
+        "unforced_mag_error": "0.107",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59195.554410",
+        "filter": "r",
+        "unforced_mag": "18.683",
+        "unforced_mag_error": "0.289",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59194.567801",
+        "filter": "r",
+        "unforced_mag": "18.487",
+        "unforced_mag_error": "0.114",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59194.563056",
+        "filter": "r",
+        "unforced_mag": "18.622",
+        "unforced_mag_error": "0.121",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59194.558322",
+        "filter": "r",
+        "unforced_mag": "18.519",
+        "unforced_mag_error": "0.101",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    },
+    {
+        "MJD": "59194.553576",
+        "filter": "r",
+        "unforced_mag": "18.566",
+        "unforced_mag_error": "0.108",
+        "unforced_mag_status": "positive",
+        "forced_ujy": "",
+        "forced_ujy_error": ""
+    }
+]
