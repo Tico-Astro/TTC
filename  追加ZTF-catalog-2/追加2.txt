@@ -1,0 +1,16 @@
+ZTF21abxngcz AT2021yzv full_lc 1.0 无
+ZTF22aaabovl AT2022aee full_lc 1.0 晚期有上升，裁剪时间： 100d
+ZTF22aaahtqz AT2022bdw fade_lc 2.0 无
+ZTF22aacgcwv AT2022dyt full_lc 1.0 无
+ZTF22aadesap AT2022fpx full_lc 2.5 下降段极其漫长，上升时标也很长
+ZTF22abajudi AT2022lri fade_lc 1.0 下降段
+ZTF22aavvqyh AT2022pna fade_lc 2.0 下降段
+ZTF22aaaedas AT2022rz  fade_lc 1.5 下降段
+ZTF22abegjtx AT2022upj full_lc 2.0 存在后期测光，需要裁剪，裁剪时间150d
+ZTF22abkfhua AT2022wtn full_lc 2.0 虽然存在后期测光，但是无需裁剪
+ZTF23aadcbay AT2023cvb fade_lc 2.5 200d左右的一个下降趋势
+ZTF23aamsetv AT2023kvy fade_lc 1.0 这个拟合结果可能并不会好
+ZTF23abkixdb AT2023wdb full_lc 2.0 无
+
+ZTF23abcvbqq AT2023vto full_lc 2.0 该源在TNS上被认证为SLSN，但是在文献中又被证实为TDE，我在看的时候也觉得是TDE
+
