@@ -1,5 +1,5 @@
 # TTC
-Transformer-based TDE Classifier (TTC) is a time-domain classification algorithm for tidal disruption events (TDEs), based on Mgformer. Related work has been accepted by ApJ.
+Transformer-based TDE Classifier (TTC) is a time-domain classification algorithm for tidal disruption events (TDEs), based on Mgformer. Related work has been accepted by [ApJ]https://doi.org/10.3847/1538-4357/ae3153
 
 The TTC consists of two parts: function Fitting (Curved-fitting Filter,CFF) and algorithm scoring (Transformer ML Filter).
 
